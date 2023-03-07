@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jest-swt/static/css/main.c2cab247.css",
-    "main.js": "/jest-swt/static/js/main.b94aefd3.js",
+    "main.js": "/jest-swt/static/js/main.12dee408.js",
     "index.html": "/jest-swt/index.html",
     "main.c2cab247.css.map": "/jest-swt/static/css/main.c2cab247.css.map",
-    "main.b94aefd3.js.map": "/jest-swt/static/js/main.b94aefd3.js.map"
+    "main.12dee408.js.map": "/jest-swt/static/js/main.12dee408.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.b94aefd3.js"
+    "static/js/main.12dee408.js"
   ]
 }
